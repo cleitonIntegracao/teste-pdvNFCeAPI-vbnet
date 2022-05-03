@@ -1,0 +1,4997 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NFCe
+</name>
+</assembly>
+<members>
+<member name="T:NFCe.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:NFCe.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:NFCe.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="T:NFCe.src.Classes.TNFCe">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFCe.infNFe">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFCe.infNFeSupl">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFe">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.ide">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.emit">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.avulsa">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.dest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.retirada">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.entrega">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.autXML">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.det">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.total">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.transp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.cobr">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.pag">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.infIntermed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.infAdic">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.exporta">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.compra">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.cana">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.infRespTec">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.infSolicNFF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.versao">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFe.Id">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIde">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.cUF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.cNF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.natOp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.mod">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.serie">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.nNF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.dhEmi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.dhSaiEnt">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.tpNF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.idDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.cMunFG">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.tpImp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.tpEmis">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.cDV">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.tpAmb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.finNFe">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.indFinal">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.indPres">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.indIntermed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.indIntermedSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.procEmi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.verProc">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.dhCont">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.xJust">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIde.NFref">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TCodUfIBGE">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item11">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item12">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item13">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item14">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item15">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item16">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item17">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item21">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item22">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item23">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item24">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item25">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item26">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item27">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item28">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item29">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item31">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item32">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item33">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item35">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item41">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item42">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item43">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item50">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item51">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item52">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCodUfIBGE.Item53">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TMod">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TMod.Item55">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TMod.Item65">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeTpNF">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpNF.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpNF.Item1">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeIdDest">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIdDest.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIdDest.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIdDest.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeTpImp">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpImp.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpImp.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpImp.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpImp.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpImp.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpImp.Item5">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeTpEmis">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpEmis.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpEmis.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpEmis.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpEmis.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpEmis.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpEmis.Item6">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpEmis.Item7">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeTpEmis.Item9">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TAmb">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TAmb.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TAmb.Item2">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TFinNFe">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TFinNFe.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TFinNFe.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TFinNFe.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TFinNFe.Item4">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeIndFinal">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndFinal.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndFinal.Item1">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeIndPres">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndPres.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndPres.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndPres.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndPres.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndPres.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndPres.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndPres.Item9">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeIndIntermed">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndIntermed.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeIndIntermed.Item1">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TProcEmi">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TProcEmi.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TProcEmi.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TProcEmi.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TProcEmi.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeNFref">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFref.Item">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFref.ItemElementName">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefECF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefECF.mod">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefECF.nECF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefECF.nCOO">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefECFMod">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefECFMod.Item2B">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefECFMod.Item2C">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefECFMod.Item2D">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNF.cUF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNF.AAMM">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNF.CNPJ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNF.mod">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNF.serie">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNF.nNF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFMod">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFMod.Item01">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFMod.Item02">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP.cUF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP.AAMM">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP.Item">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP.ItemElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP.IE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP.mod">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP.serie">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFP.nNF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemChoiceType">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType.CNPJ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType.CPF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFPMod">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFPMod.Item01">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeIdeNFrefRefNFPMod.Item04">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemChoiceType1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType1.refCTe">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType1.refECF">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType1.refNF">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType1.refNFP">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType1.refNFe">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeEmit">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.Item">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.ItemElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.xNome">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.xFant">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.enderEmit">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.IE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.IEST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.IM">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.CNAE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeEmit.CRT">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemChoiceType2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType2.CNPJ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType2.CPF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TEnderEmi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.xLgr">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.nro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.xCpl">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.xBairro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.cMun">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.xMun">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.UF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.CEP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.cPais">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.cPaisSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.xPais">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.xPaisSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEnderEmi.fone">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TUfEmi">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.AC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.AL">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.AM">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.AP">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.BA">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.CE">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.DF">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.ES">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.GO">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.MA">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.MG">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.MS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.MT">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.PA">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.PB">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.PE">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.PI">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.PR">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.RJ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.RN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.RO">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.RR">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.RS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.SC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.SE">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.SP">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUfEmi.TO">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TEnderEmiCPais">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TEnderEmiCPais.Item1058">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TEnderEmiXPais">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TEnderEmiXPais.Brasil">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TEnderEmiXPais.BRASILField">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeEmitCRT">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeEmitCRT.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeEmitCRT.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeEmitCRT.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeAvulsa">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.CNPJ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.xOrgao">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.matr">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.xAgente">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.fone">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.UF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.nDAR">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.dEmi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.vDAR">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.repEmi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAvulsa.dPag">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.Item">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.ItemElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.xNome">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.enderDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.indIEDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.IE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.ISUF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.IM">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDest.email">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemChoiceType3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType3.CNPJ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType3.CPF">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType3.idEstrangeiro">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TEndereco">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.xLgr">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.nro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.xCpl">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.xBairro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.cMun">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.xMun">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.UF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.CEP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.cPais">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.xPais">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TEndereco.fone">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TUf">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.AC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.AL">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.AM">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.AP">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.BA">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.CE">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.DF">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.ES">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.GO">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.MA">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.MG">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.MS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.MT">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.PA">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.PB">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.PE">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.PI">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.PR">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.RJ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.RN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.RO">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.RR">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.RS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.SC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.SE">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.SP">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.TO">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TUf.EX">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDestIndIEDest">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDestIndIEDest.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDestIndIEDest.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDestIndIEDest.Item9">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TLocal">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.Item">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.ItemElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.xNome">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.xLgr">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.nro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.xCpl">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.xBairro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.cMun">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.xMun">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.UF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.CEP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.cPais">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.xPais">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.fone">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.email">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TLocal.IE">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemChoiceType4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType4.CNPJ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType4.CPF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeAutXML">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAutXML.Item">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeAutXML.ItemElementName">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemChoiceType5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType5.CNPJ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType5.CPF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDet.prod">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDet.imposto">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDet.impostoDevol">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDet.infAdProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDet.nItem">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.cProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.cEAN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.cBarra">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.xProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.NCM">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.NVE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.CEST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.indEscala">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.indEscalaSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.CNPJFab">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.cBenef">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.EXTIPI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.CFOP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.uCom">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.qCom">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.vUnCom">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.vProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.cEANTrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.cBarraTrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.uTrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.qTrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.vUnTrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.vFrete">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.vSeg">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.vDesc">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.vOutro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.indTot">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.DI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.detExport">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.xPed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.nItemPed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.nFCI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.rastro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.infProdNFF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.infProdEmb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProd.Items">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdIndEscala">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdIndEscala.S">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdIndEscala.N">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdIndTot">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdIndTot.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdIndTot.Item1">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdDI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.nDI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.dDI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.xLocDesemb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.UFDesemb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.dDesemb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.tpViaTransp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.vAFRMM">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.tpIntermedio">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.CNPJ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.UFTerceiro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.UFTerceiroSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.cExportador">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDI.adi">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item6">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item7">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item8">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item9">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item10">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item11">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item12">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpViaTransp.Item13">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdDITpIntermedio">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpIntermedio.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpIntermedio.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdDITpIntermedio.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdDIAdi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDIAdi.nAdicao">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDIAdi.nSeqAdic">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDIAdi.cFabricante">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDIAdi.vDescDI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDIAdi.nDraw">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdDetExport">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDetExport.nDraw">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDetExport.exportInd">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdDetExportExportInd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDetExportExportInd.nRE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDetExportExportInd.chNFe">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdDetExportExportInd.qExport">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdRastro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdRastro.nLote">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdRastro.qLote">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdRastro.dFab">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdRastro.dVal">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdRastro.cAgreg">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdInfProdNFF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdInfProdNFF.cProdFisco">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdInfProdNFF.cOperNFF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdInfProdEmb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdInfProdEmb.xEmb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdInfProdEmb.qVolEmb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdInfProdEmb.uEmb">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdArma">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdArma.tpArma">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdArma.nSerie">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdArma.nCano">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdArma.descr">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdArmaTpArma">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdArmaTpArma.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdArmaTpArma.Item1">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdComb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.cProdANP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.descANP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.pGLP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.pGNn">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.pGNi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.vPart">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.CODIF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.qTemp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.UFCons">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.CIDE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdComb.encerrante">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdCombCIDE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdCombCIDE.qBCProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdCombCIDE.vAliqProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdCombCIDE.vCIDE">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdCombEncerrante">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdCombEncerrante.nBico">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdCombEncerrante.nBomba">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdCombEncerrante.nTanque">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdCombEncerrante.vEncIni">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdCombEncerrante.vEncFin">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdMed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdMed.cProdANVISA">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdMed.xMotivoIsencao">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdMed.vPMC">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.tpOp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.chassi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.cCor">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.xCor">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.pot">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.cilin">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.pesoL">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.pesoB">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.nSerie">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.tpComb">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.nMotor">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.CMT">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.dist">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.anoMod">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.anoFab">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.tpPint">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.tpVeic">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.espVeic">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.VIN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.condVeic">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.cMod">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.cCorDENATRAN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.lota">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetProdVeicProd.tpRest">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpOp">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpOp.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpOp.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpOp.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpOp.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdVIN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdVIN.R">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdVIN.N">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdCondVeic">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdCondVeic.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdCondVeic.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdCondVeic.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpRest">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpRest.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpRest.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpRest.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpRest.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpRest.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetProdVeicProdTpRest.Item9">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImposto">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImposto.vTotTrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImposto.Items">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImposto.PIS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImposto.PISST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImposto.COFINS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImposto.COFINSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImposto.ICMSUFDest">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMS.Item">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00.modBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00.pICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00.pFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00.vFCP">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.Torig">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item6">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item7">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.Torig.Item8">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00CST.Item00">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00ModBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00ModBC.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00ModBC.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00ModBC.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS00ModBC.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.modBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.pICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vBCFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.pFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.modBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.pMVAST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.pRedBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.pICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vBCFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.pFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.vICMSSTDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10.motDesICMSST">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10CST.Item10">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBC.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBC.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBC.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBC.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBCST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBCST.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBCST.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBCST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBCST.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBCST.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10ModBCST.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10MotDesICMSST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10MotDesICMSST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10MotDesICMSST.Item9">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS10MotDesICMSST.Item12">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.modBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.pRedBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.pICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.vBCFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.pFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.vFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.vICMSDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20.motDesICMS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20CST.Item20">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20ModBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20ModBC.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20ModBC.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20ModBC.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20ModBC.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20MotDesICMS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20MotDesICMS.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20MotDesICMS.Item9">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS20MotDesICMS.Item12">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.modBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.pMVAST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.pRedBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.pICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.vICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.vBCFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.pFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.vFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.vICMSDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30.motDesICMS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30CST.Item30">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30ModBCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30ModBCST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30ModBCST.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30ModBCST.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30ModBCST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30ModBCST.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30ModBCST.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30ModBCST.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30MotDesICMS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30MotDesICMS.Item6">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30MotDesICMS.Item7">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS30MotDesICMS.Item9">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40.vICMSDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40.motDesICMS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40CST.Item40">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40CST.Item41">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40CST.Item50">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item6">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item7">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item8">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item9">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item10">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item11">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item16">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS.Item90">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.modBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.modBCSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.pRedBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.pICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.vICMSOp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.pDif">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.vICMSDif">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.vBCFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.pFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.vFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.pFCPDif">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.vFCPDif">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51.vFCPEfet">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51CST.Item51">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51ModBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51ModBC.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51ModBC.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51ModBC.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS51ModBC.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.vBCSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.pST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.vICMSSubstituto">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.vICMSSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.vBCFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.pFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.vFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.pRedBCEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.vBCEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.pICMSEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60.vICMSEfet">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS60CST.Item60">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.modBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.pRedBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.pICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vBCFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.pFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.modBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.pMVAST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.pRedBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.pICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vBCFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.pFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vICMSDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.motDesICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.vICMSSTDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70.motDesICMSST">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70CST.Item70">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBC.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBC.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBC.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBC.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBCST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBCST.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBCST.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBCST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBCST.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBCST.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70ModBCST.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70MotDesICMS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70MotDesICMS.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70MotDesICMS.Item9">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70MotDesICMS.Item12">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70MotDesICMSST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70MotDesICMSST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70MotDesICMSST.Item9">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS70MotDesICMSST.Item12">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.modBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.pRedBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.pICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vBCFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.pFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.modBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.pMVAST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.pRedBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.pICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vBCFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.pFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vICMSDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.motDesICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.vICMSSTDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90.motDesICMSST">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90CST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90CST.Item90">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBC.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBC.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBC.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBC.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBCST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBCST.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBCST.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBCST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBCST.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBCST.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90ModBCST.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90MotDesICMS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90MotDesICMS.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90MotDesICMS.Item9">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90MotDesICMS.Item12">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90MotDesICMSST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90MotDesICMSST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90MotDesICMSST.Item9">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMS90MotDesICMSST.Item12">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.modBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.pRedBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.pICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.modBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.pMVAST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.pRedBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.pICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.vICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.pBCOp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPart.UFST">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartCST.Item10">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartCST.Item90">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBC.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBC.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBC.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBC.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBCST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBCST.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBCST.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBCST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBCST.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBCST.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSPartModBCST.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN101">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN101.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN101.CSOSN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN101.pCredSN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN101.vCredICMSSN">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN101CSOSN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN101CSOSN.Item101">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN102">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN102.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN102.CSOSN">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN102CSOSN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN102CSOSN.Item102">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN102CSOSN.Item103">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN102CSOSN.Item300">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN102CSOSN.Item400">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.CSOSN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.modBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.pMVAST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.pRedBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.pICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.vICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.vBCFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.pFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.vFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.pCredSN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201.vCredICMSSN">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201CSOSN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201CSOSN.Item201">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.CSOSN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.modBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.pMVAST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.pRedBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.pICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.vICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.vBCFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.pFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202.vFCPST">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202CSOSN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202CSOSN.Item202">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202CSOSN.Item203">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.CSOSN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.vBCSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.pST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.vICMSSubstituto">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.vICMSSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.vBCFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.pFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.vFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.pRedBCEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.vBCEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.pICMSEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500.vICMSEfet">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500CSOSN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN500CSOSN.Item500">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.CSOSN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.modBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.pRedBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.pICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.modBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.pMVAST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.pRedBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.pICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.vICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.vBCFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.pFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.vFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.pCredSN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900.vCredICMSSN">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900CSOSN">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900CSOSN.Item900">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBC.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBC.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBC.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBC.Item3">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.orig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vBCSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.pST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vICMSSubstituto">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vICMSSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vBCFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.pFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vBCSTDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vICMSSTDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.pRedBCEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vBCEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.pICMSEfet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSST.vICMSEfet">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSTCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSTCST.Item41">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSICMSSTCST.Item60">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoII">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoII.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoII.vDespAdu">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoII.vII">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoII.vIOF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TIpi">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpi.CNPJProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpi.cSelo">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpi.qSelo">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpi.cEnq">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpi.Item">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TIpiIPINT">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpiIPINT.CST">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TIpiIPINTCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item01">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item02">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item03">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item04">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item05">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item51">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item52">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item53">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item54">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPINTCST.Item55">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TIpiIPITrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpiIPITrib.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpiIPITrib.Items">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpiIPITrib.ItemsElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TIpiIPITrib.vIPI">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TIpiIPITribCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPITribCST.Item00">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPITribCST.Item49">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPITribCST.Item50">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TIpiIPITribCST.Item99">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemsChoiceType">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType.pIPI">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType.qUnid">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType.vBC">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType.vUnid">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.vAliq">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.vISSQN">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.cMunFG">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.cListServ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.vDeducao">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.vOutro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.vDescIncond">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.vDescCond">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.vISSRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.indISS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.cServico">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.cMun">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.cPais">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.nProcesso">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQN.indIncentivo">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TCListServ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0101">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0102">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0103">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0104">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0105">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0106">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0107">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0108">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0109">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0201">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0302">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0303">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0304">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0305">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0401">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0402">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0403">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0404">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0405">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0406">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0407">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0408">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0409">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0410">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0411">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0412">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0413">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0414">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0415">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0416">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0417">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0418">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0419">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0420">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0421">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0422">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0423">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0501">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0502">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0503">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0504">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0505">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0506">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0507">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0508">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0509">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0601">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0602">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0603">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0604">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0605">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0606">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0701">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0702">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0703">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0704">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0705">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0706">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0707">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0708">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0709">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0710">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0711">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0712">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0713">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0716">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0717">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0718">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0719">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0720">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0721">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0722">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0801">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0802">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0901">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0902">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item0903">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1001">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1002">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1003">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1004">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1005">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1006">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1007">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1008">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1009">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1010">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1101">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1102">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1103">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1104">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1201">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1202">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1203">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1204">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1205">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1206">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1207">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1208">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1209">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1210">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1211">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1212">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1213">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1214">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1215">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1216">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1217">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1302">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1303">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1304">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1305">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1401">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1402">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1403">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1404">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1405">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1406">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1407">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1408">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1409">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1410">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1411">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1412">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1413">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1414">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1501">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1502">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1503">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1504">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1505">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1506">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1507">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1508">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1509">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1510">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1511">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1512">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1513">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1514">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1515">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1516">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1517">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1518">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1601">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1602">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1701">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1702">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1703">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1704">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1705">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1706">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1708">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1709">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1710">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1711">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1712">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1713">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1714">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1715">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1716">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1717">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1718">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1719">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1720">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1721">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1722">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1723">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1724">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1725">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1801">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item1901">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2001">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2002">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2003">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2101">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2201">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2301">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2401">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2501">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2502">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2503">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2504">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2505">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2601">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2701">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2801">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item2901">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3001">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3101">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3201">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3301">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3401">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3501">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3601">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3701">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3801">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item3901">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TCListServ.Item4001">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndISS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndISS.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndISS.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndISS.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndISS.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndISS.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndISS.Item6">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndISS.Item7">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndIncentivo">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndIncentivo.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoISSQNIndIncentivo.Item2">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPIS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPIS.Item">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISAliq">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISAliq.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISAliq.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISAliq.pPIS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISAliq.vPIS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISAliqCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISAliqCST.Item01">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISAliqCST.Item02">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNT">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNT.CST">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNTCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNTCST.Item04">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNTCST.Item05">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNTCST.Item06">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNTCST.Item07">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNTCST.Item08">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISNTCST.Item09">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutr">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutr.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutr.Items">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutr.ItemsElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutr.vPIS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item49">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item50">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item51">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item52">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item53">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item54">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item55">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item56">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item60">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item61">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item62">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item63">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item64">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item65">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item66">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item67">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item70">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item71">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item72">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item73">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item74">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item75">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item98">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISOutrCST.Item99">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemsChoiceType1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType1.pPIS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType1.qBCProd">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType1.vAliqProd">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType1.vBC">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISQtde">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISQtde.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISQtde.qBCProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISQtde.vAliqProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISQtde.vPIS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISQtdeCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISPISQtdeCST.Item03">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISST.Items">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISST.ItemsElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISST.vPIS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISST.indSomaPISST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoPISST.indSomaPISSTSpecified">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemsChoiceType2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType2.pPIS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType2.qBCProd">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType2.vAliqProd">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType2.vBC">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoPISSTIndSomaPISST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISSTIndSomaPISST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoPISSTIndSomaPISST.Item1">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINS.Item">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSAliq">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSAliq.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSAliq.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSAliq.pCOFINS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSAliq.vCOFINS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSAliqCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSAliqCST.Item01">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSAliqCST.Item02">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNT">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNT.CST">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNTCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNTCST.Item04">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNTCST.Item05">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNTCST.Item06">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNTCST.Item07">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNTCST.Item08">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSNTCST.Item09">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutr">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutr.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutr.Items">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutr.ItemsElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutr.vCOFINS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item49">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item50">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item51">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item52">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item53">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item54">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item55">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item56">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item60">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item61">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item62">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item63">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item64">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item65">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item66">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item67">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item70">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item71">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item72">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item73">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item74">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item75">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item98">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST.Item99">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemsChoiceType3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType3.pCOFINS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType3.qBCProd">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType3.vAliqProd">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType3.vBC">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSQtde">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSQtde.CST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSQtde.qBCProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSQtde.vAliqProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSQtde.vCOFINS">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSQtdeCST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSCOFINSQtdeCST.Item03">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSST.Items">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSST.ItemsElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSST.vCOFINS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSST.indSomaCOFINSST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSST.indSomaCOFINSSTSpecified">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemsChoiceType4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType4.pCOFINS">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType4.qBCProd">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType4.vAliqProd">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType4.vBC">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSSTIndSomaCOFINSST">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSSTIndSomaCOFINSST.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoCOFINSSTIndSomaCOFINSST.Item1">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.vBCUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.vBCFCPUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.pFCPUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.pICMSUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.pICMSInter">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.pICMSInterPart">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.vFCPUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.vICMSUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDest.vICMSUFRemet">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDestPICMSInter">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDestPICMSInter.Item400">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDestPICMSInter.Item700">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeDetImpostoICMSUFDestPICMSInter.Item1200">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoDevol">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoDevol.pDevol">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoDevol.IPI">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeDetImpostoDevolIPI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeDetImpostoDevolIPI.vIPIDevol">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTotal">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotal.ICMSTot">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotal.ISSQNtot">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotal.retTrib">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTotalICMSTot">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vICMS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vICMSDeson">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vFCPUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vICMSUFDest">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vICMSUFRemet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vFCP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vBCST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vFCPST">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vFCPSTRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vProd">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vFrete">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vSeg">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vDesc">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vII">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vIPI">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vIPIDevol">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vPIS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vCOFINS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vOutro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vNF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalICMSTot.vTotTrib">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vServ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vBC">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vISS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vPIS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vCOFINS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.dCompet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vDeducao">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vOutro">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vDescIncond">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vDescCond">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.vISSRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.cRegTrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalISSQNtot.cRegTribSpecified">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTotalISSQNtotCRegTrib">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTotalISSQNtotCRegTrib.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTotalISSQNtotCRegTrib.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTotalISSQNtotCRegTrib.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTotalISSQNtotCRegTrib.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTotalISSQNtotCRegTrib.Item5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTotalISSQNtotCRegTrib.Item6">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTotalRetTrib">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalRetTrib.vRetPIS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalRetTrib.vRetCOFINS">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalRetTrib.vRetCSLL">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalRetTrib.vBCIRRF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalRetTrib.vIRRF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalRetTrib.vBCRetPrev">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTotalRetTrib.vRetPrev">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTransp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTransp.modFrete">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTransp.transporta">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTransp.retTransp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTransp.Items">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTransp.ItemsElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTransp.vol">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTranspModFrete">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTranspModFrete.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTranspModFrete.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTranspModFrete.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTranspModFrete.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTranspModFrete.Item4">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeTranspModFrete.Item9">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTranspTransporta">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspTransporta.Item">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspTransporta.ItemElementName">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspTransporta.xNome">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspTransporta.IE">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspTransporta.xEnder">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspTransporta.xMun">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspTransporta.UF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspTransporta.UFSpecified">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemChoiceType6">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType6.CNPJ">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemChoiceType6.CPF">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTranspRetTransp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspRetTransp.vServ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspRetTransp.vBCRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspRetTransp.pICMSRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspRetTransp.vICMSRet">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspRetTransp.CFOP">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspRetTransp.cMunFG">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TVeiculo">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TVeiculo.placa">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TVeiculo.UF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TVeiculo.UFSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TVeiculo.RNTC">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.ItemsChoiceType5">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType5.balsa">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType5.reboque">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType5.vagao">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.ItemsChoiceType5.veicTransp">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTranspVol">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspVol.qVol">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspVol.esp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspVol.marca">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspVol.nVol">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspVol.pesoL">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspVol.pesoB">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspVol.lacres">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeTranspVolLacres">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeTranspVolLacres.nLacre">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeCobr">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobr.fat">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobr.dup">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeCobrFat">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobrFat.nFat">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobrFat.vOrig">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobrFat.vDesc">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobrFat.vLiq">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeCobrDup">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobrDup.nDup">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobrDup.dVenc">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCobrDup.vDup">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFePag">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePag.detPag">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePag.vTroco">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFePagDetPag">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPag.indPag">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPag.indPagSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPag.tPag">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPag.xPag">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPag.vPag">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPag.card">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFePagDetPagIndPag">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagIndPag.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagIndPag.Item1">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFePagDetPagTPag">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item01">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item02">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item03">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item04">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item05">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item10">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item11">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item12">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item13">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item14">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item15">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item16">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item17">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item18">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item19">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item90">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagTPag.Item99">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFePagDetPagCard">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPagCard.tpIntegra">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPagCard.CNPJ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPagCard.tBand">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPagCard.tBandSpecified">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFePagDetPagCard.cAut">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFePagDetPagCardTpIntegra">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTpIntegra.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTpIntegra.Item2">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item01">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item02">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item03">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item04">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item05">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item06">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item07">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item08">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item09">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item10">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item11">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item12">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item13">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item14">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item15">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item16">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item17">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item18">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item19">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item20">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item21">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item22">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item23">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item24">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item25">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item26">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item27">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFePagDetPagCardTBand.Item99">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeInfIntermed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfIntermed.CNPJ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfIntermed.idCadIntTran">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeInfAdic">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdic.infAdFisco">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdic.infCpl">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdic.obsCont">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdic.obsFisco">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdic.procRef">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeInfAdicObsCont">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdicObsCont.xTexto">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdicObsCont.xCampo">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeInfAdicObsFisco">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdicObsFisco.xTexto">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdicObsFisco.xCampo">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeInfAdicProcRef">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdicProcRef.nProc">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfAdicProcRef.indProc">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeInfAdicProcRefIndProc">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeInfAdicProcRefIndProc.Item0">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeInfAdicProcRefIndProc.Item1">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeInfAdicProcRefIndProc.Item2">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeInfAdicProcRefIndProc.Item3">
+ <remarks/>
+</member>
+<member name="F:NFCe.src.Classes.TNFeInfNFeInfAdicProcRefIndProc.Item9">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeExporta">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeExporta.UFSaidaPais">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeExporta.xLocExporta">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeExporta.xLocDespacho">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeCompra">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCompra.xNEmp">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCompra.xPed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCompra.xCont">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeCana">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.safra">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.ref">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.forDia">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.qTotMes">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.qTotAnt">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.qTotGer">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.deduc">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.vFor">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.vTotDed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCana.vLiqFor">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeCanaForDia">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCanaForDia.qtde">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCanaForDia.dia">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeCanaDeduc">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCanaDeduc.xDed">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeCanaDeduc.vDed">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TInfRespTec">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TInfRespTec.CNPJ">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TInfRespTec.xContato">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TInfRespTec.email">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TInfRespTec.fone">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TInfRespTec.idCSRT">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TInfRespTec.hashCSRT">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeInfSolicNFF">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeInfSolicNFF.xSolic">
+ <remarks/>
+</member>
+<member name="T:NFCe.src.Classes.TNFeInfNFeSupl">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeSupl.qrCode">
+ <remarks/>
+</member>
+<member name="P:NFCe.src.Classes.TNFeInfNFeSupl.urlChave">
+ <remarks/>
+</member>
+</members>
+</doc>
