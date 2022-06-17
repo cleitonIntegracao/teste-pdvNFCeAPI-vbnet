@@ -258,6 +258,7 @@
     <Compile Include="src\Respostas\_Genéricas\IncluirDFeResp.vb" />
     <Compile Include="src\Respostas\_Genéricas\InutilizarResp.vb" />
     <Compile Include="src\Respostas\_Genéricas\NaoEmbResp.vb" />
+    <Compile Include="src\Respostas\_Genéricas\PreviaResp.vb" />
     <Compile Include="src\Respostas\_Genéricas\RetEvento.vb" />
     <Compile Include="src\Respostas\_Genéricas\RetornoInut.vb" />
     <Compile Include="src\Retornos\BPe\EmitirSincronoRetBpe.vb" />

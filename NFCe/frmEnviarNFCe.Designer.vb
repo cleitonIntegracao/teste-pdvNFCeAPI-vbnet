@@ -120,6 +120,7 @@ Partial Class frmEnviarNFCe
         Me.txtVdesc = New System.Windows.Forms.TextBox()
         Me.btnNotas = New System.Windows.Forms.Button()
         Me.btnProdutoCarr = New System.Windows.Forms.Button()
+        Me.btnPrevia = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.Panel1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
@@ -1054,12 +1055,22 @@ Partial Class frmEnviarNFCe
         Me.btnProdutoCarr.Text = "Carregar Prod"
         Me.btnProdutoCarr.UseVisualStyleBackColor = False
         '
+        'btnPrevia
+        '
+        Me.btnPrevia.Location = New System.Drawing.Point(159, 6)
+        Me.btnPrevia.Name = "btnPrevia"
+        Me.btnPrevia.Size = New System.Drawing.Size(95, 31)
+        Me.btnPrevia.TabIndex = 78
+        Me.btnPrevia.Text = "Previa NFCe"
+        Me.btnPrevia.UseVisualStyleBackColor = True
+        '
         'frmEnviarNFCe
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.ClientSize = New System.Drawing.Size(1050, 671)
+        Me.Controls.Add(Me.btnPrevia)
         Me.Controls.Add(Me.btnProdutoCarr)
         Me.Controls.Add(Me.btnNotas)
         Me.Controls.Add(Me.txtVdesc)
@@ -1192,4 +1203,5 @@ Partial Class frmEnviarNFCe
     Friend WithEvents txtCodPaisDest As TextBox
     Friend WithEvents btnNotas As Button
     Friend WithEvents btnProdutoCarr As Button
+    Friend WithEvents btnPrevia As Button
 End Class

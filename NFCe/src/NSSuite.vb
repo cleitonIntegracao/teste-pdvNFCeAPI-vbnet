@@ -2,6 +2,7 @@
 Imports System.Net
 Imports Newtonsoft.Json
 Imports System.Threading
+Imports NFCe.PreviaResp
 
 Public Class NSSuite
     Private Shared token As String = "ADQWREQW561D32AWS1D6"
@@ -1495,4 +1496,41 @@ Public Class NSSuite
 
         Return resposta
     End Function
+
+    Public Shared Function previaDocumento(ByVal modelo As String, ByVal tpConteudo As String, ByVal conteudo As String) As String
+        Dim urlPrevia As String
+
+        Select Case modelo
+            Case "55"
+                urlPrevia = Endpoints.NFePrevia
+            Case "65"
+                urlPrevia = Endpoints.NFCePrevia
+            Case "57"
+                urlPrevia = Endpoints.CTePrevia
+            Case "67"
+                urlPrevia = Endpoints.CTeOSPrevia
+            Case "58"
+                urlPrevia = Endpoints.MDFePrevia
+            Case Else
+                Throw New Exception("Não definido endpoint de envio de previa para o modelo " + modelo)
+        End Select
+        Dim json As String = JsonConvert.SerializeObject(conteudo)
+
+        Genericos.gravarLinhaLog(modelo, "[ENVIAR_PREVIA_DADOS]")
+        Genericos.gravarLinhaLog(modelo, json)
+
+        Dim resposta As String = enviaConteudoParaAPI(conteudo, urlPrevia, tpConteudo)
+
+        Genericos.gravarLinhaLog(modelo, "[ENVIAR_PREVIA_RESPOSTA]")
+        Genericos.gravarLinhaLog(modelo, resposta)
+
+        Dim previaResp As PreviaResp = JsonConvert.DeserializeObject(Of PreviaResp)(resposta)
+        If Not previaResp.status.Equals("200") Then
+            Dim motivo As String = previaResp.motivo
+            Dim erros = previaResp.erros
+            MessageBox.Show($"{motivo}, o(s) erro(s): {erros}")
+        End If
+        Return previaResp.pdf
+    End Function
+
 End Class

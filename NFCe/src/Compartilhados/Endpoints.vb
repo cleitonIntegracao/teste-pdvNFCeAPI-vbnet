@@ -21,6 +21,8 @@
     Public Property CTeInfGTV As String = "https://cte.ns.eti.br/cte/gtv"
     Public Property CTeInutilizacao As String = "https://cte.ns.eti.br/cte/inut"
     Public Property CTeListarNSNRecs As String = "https://cte.ns.eti.br/util/list/nsnrecs"
+    Public Property CTePrevia As String = "https://cte.ns.eti.br/util/previa/cte"
+    Public Property CTeOSPrevia As String = "https://cte.ns.eti.br/util/previa/cteos"
 
     'DDF-e
     Public Property DDFeDesacordo As String = "https://ddfe.ns.eti.br/events/cte/disagree"
@@ -49,6 +51,7 @@
     Public Property NFCeConsSit As String = "https://nfce.ns.eti.br/v1/nfce/status"
     Public Property NFCeEnvioEmail As String = "https://nfce.ns.eti.br/v1/util/resendemail"
     Public Property NFCeInutilizacao As String = "https://nfce.ns.eti.br/v1/nfce/inut"
+    Public Property NFCePrevia As String = "https://nfce.ns.eti.br/v1/util/preview/nfce"
 
     'NF-e
     Public Property NFeEnvio As String = "https://nfe.ns.eti.br/nfe/issue"
